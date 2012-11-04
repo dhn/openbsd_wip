@@ -8,6 +8,8 @@ USE_GROFF =	Yes
 DISTNAME =	XML-Fast-0.11
 CATEGORIES =	www textproc
 
+MAINTAINER =	Dennis Herrmann <dhn@FreeBSD.org>
+
 # perl
 PERMIT_PACKAGE_CDROM =	Yes
 PERMIT_PACKAGE_FTP =	Yes
